@@ -11,5 +11,6 @@
 
 <br>
 #pattern3 Output:-<br>
+
 ![image](https://user-images.githubusercontent.com/86415295/197336374-3bfb1c6a-c954-4483-9fc5-8386207b6f77.png)
 
