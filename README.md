@@ -16,5 +16,6 @@
 
 <br>
 #pttern4 Output:-<br>
-![image](https://user-images.githubusercontent.com/86415295/197709019-6e7eda1a-54f4-4490-9a79-bb7faec577f1.png)
+![image](https://user-images.githubusercontent.com/86415295/197754381-2f6a0f4f-29d5-4bcb-9ba4-df97d50498ff.png)
+
 
