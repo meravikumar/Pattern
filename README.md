@@ -14,3 +14,6 @@
 
 ![image](https://user-images.githubusercontent.com/86415295/197336374-3bfb1c6a-c954-4483-9fc5-8386207b6f77.png)
 
+<br>
+#pttern4 Output:-<br>
+![image](https://user-images.githubusercontent.com/86415295/197708871-1415d7e8-b3ce-4169-8fa5-7b2b52d3a516.png)
